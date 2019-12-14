@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aliyun_video" />
+        <module name="xueceh_common" />
+        <module name="xuechen_common" />
+        <module name="xuechen_eduservice" />
+        <module name="xuechen_erekaService" />
+        <module name="xuechen_staservice" />
+        <module name="xuechen_ucservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="videoaliyun" target="1.8" />
+      <module name="xueceh_common" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
